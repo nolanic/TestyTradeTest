@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestyTradeTest</string>
+    <string name="symbol">Symbol</string>
+    <string name="bid_price">Bid Price</string>
+    <string name="ask_price">Ask Price</string>
+    <string name="last_price">Last Price</string>
+    <string name="remove">Remove</string>
+    <string name="add_quotes_to_track">Add Quotes To Track</string>
+    <string name="not_available">N/A</string>
+    <string name="by_symbol">By Symbol</string>
+    <string name="by_name">By Name</string>
+    <string name="search">Search</string>
+    <string name="selected_format">%d Selected</string>
+    <string name="clear_selections">Clear Selections</string>
+    <string name="add">Add</string>
+    <string name="new_watchlist">New Watchlist</string>
+    <string name="create">Create</string>
+    <string name="delete_watchlist">Delete Watchlist</string>
+    <string name="internet_connection">Check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="from_to">From %s to %s</string>
+</resources>
